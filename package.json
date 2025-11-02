@@ -1,0 +1,15 @@
+{
+  "name": "toxic-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord tag troll",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "author": "You",
+  "license": "ISC"
+}
